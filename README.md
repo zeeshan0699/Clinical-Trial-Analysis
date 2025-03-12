@@ -66,7 +66,7 @@ Clinical trials are typically conducted in sequential phases, each serving a dis
 - **Limited Phase 4 trials** highlight a gap in **long-term drug safety monitoring**.  
 
 ### **Leading Sponsors in Clinical Trials**  
-- The **top sponsors** are large pharmaceutical companies, with **Pfizer, Novartis, Merck, and Roche** leading in trial numbers.  
+- The **top sponsors** are large pharmaceutical companies, with **GSK, Novartis, Pfizer, and Merck** leading in trial numbers.  
 - Suggests that **private industry investment** is a major driver of clinical research.  
 
 These insights were validated through **statistical and visual analysis**, guiding the dashboard’s design.  
@@ -102,7 +102,7 @@ To maintain **visual consistency and readability**, a **clean and professional c
 - The **low number of Phase 4 trials** suggests **a gap in post-market drug monitoring**, which could be an area for further exploration.  
 
 ### **Top Sponsors in Clinical Research**  
-- **Pfizer, Novartis, Merck, and Roche** are the primary industry players.  
+- **GSK, Novartis, Pfizer, and Merck** are the primary industry players.  
 - Emphasizes the **strong role of private funding in drug development**.  
 
 ## **Exploration & Future Analysis**  
