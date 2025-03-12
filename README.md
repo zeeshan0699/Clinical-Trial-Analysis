@@ -47,7 +47,7 @@ This structured approach ensured a **high-quality dataset**, enabling meaningful
 
 ## **Exploratory Data Analysis (EDA) Insights**  
 
-### **Trends in Clinical Trials Over Time**  
+### **Trends in Clinical Trials and Patient Enrollment Over Time**  
 - A **sharp rise in clinical trials between 2000 and 2010**, peaking at approximately **1,100 trials per year**.  
 - A **decline post-2010**, likely due to **regulatory constraints, funding limitations, or shifting research priorities**.  
 
@@ -79,11 +79,11 @@ These insights were validated through **statistical and visual analysis**, guidi
 The Power BI dashboard was structured to ensure **clarity, interactivity, and ease of navigation**.  
 
 ### **Key Dashboard Features**  
-- **Line Chart**: Trends in clinical trials over time.  
-- **Bar Chart**: Top 10 medical conditions by trial count.  
-- **Pie Chart**: Distribution of trial sponsors.  
-- **KPI Cards**: Total enrollment and trial count metrics.  
-- **Filters & Slicers**: Enable dynamic data exploration.  
+- **Line Chart** : Trends in clinical trials and patient enrollment over time.  
+- **Bar Chart**  : Top 10 medical conditions by trial count.  
+- **Pie Chart**  : Distribution of trial sponsors.  
+- **KPI Cards**  : Total enrollment and trial count metrics.  
+- **Gauges**     : Visual representation of trial success and dropout rates.  
 
 To maintain **visual consistency and readability**, a **clean and professional color scheme** was selected. The layout was designed to **avoid clutter** while enabling users to explore different dimensions efficiently.  
 
