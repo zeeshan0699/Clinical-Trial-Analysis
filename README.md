@@ -25,7 +25,7 @@ This dashboard serves as a **decision-making tool for pharmaceutical companies, 
 - Identified that **Phase 3 trials dominate**, while **Phase 4 trials are significantly fewer**, indicating limited post-market studies.  
 
 ### **Assessing Leading Sponsors of Clinical Trials**  
-- Built a **pie chart of top sponsors**, showing that **major pharmaceutical companies (Pfizer, Novartis, Merck, Roche)** drive most of the research.  
+- Built a **pie chart of top sponsors**, showing that **major pharmaceutical companies (GSK, Novartis, Pfizer, Merck)** drive most of the research.  
 
 ### **Examining Patient Enrollment Trends**  
 - Created **key performance indicators (KPIs)** to analyze total patient enrollment.  
