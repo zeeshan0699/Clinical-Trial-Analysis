@@ -72,6 +72,7 @@ Clinical trials are typically conducted in sequential phases, each serving a dis
 These insights were validated through **statistical and visual analysis**, guiding the dashboard’s design.  
 
 ## **Dashboard Design & Visualization (Power BI)**  
+![image](https://github.com/user-attachments/assets/60309fcb-b100-4a82-9d4b-6bbffb1b5b7e)
 
 The Power BI dashboard was structured to ensure **clarity, interactivity, and ease of navigation**.  
 
