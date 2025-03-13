@@ -1,9 +1,8 @@
 # **Clinical Trials Data Analysis & Dashboard Report**  
 
 ## **Project Overview**  
-This project analyzes clinical trial trends, sponsor contributions, and patient enrollment patterns using data from Aero Data Lab. The objective is to uncover insights into trial success rates, phase distribution, and research focus areas through an interactive Power BI dashboard.
+This project analyzes clinical trial trends, sponsor contributions, and patient enrollment patterns using data from **Aero Data Lab**. The objective is to uncover insights into trial success rates, phase distribution, and research focus areas through an interactive Power BI dashboard.
 
-The data source for this analysis is **Aero Data Lab**, which provides detailed records of clinical trials globally.
 
 The project was executed in three primary stages:  
 - **Data Cleaning & Preparation**: Used Python libraries (**Pandas, NumPy**) to clean, structure, and preprocess the data.  
