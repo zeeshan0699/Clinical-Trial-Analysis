@@ -73,7 +73,8 @@ These insights were validated through **statistical and visual analysis**, guidi
 
 ## **Dashboard Design & Visualization (Power BI)**  
 
-![image](https://github.com/user-attachments/assets/f7266957-5733-4bd0-be7b-e8dc8c9e62e8)
+![image](https://github.com/user-attachments/assets/6039fb9e-cd50-4a0e-af75-c7ffd5b0c372)
+
 
 
 
