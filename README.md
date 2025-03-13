@@ -1,7 +1,7 @@
 # **Clinical Trials Data Analysis & Dashboard Report**  
 
 ## **Project Overview**  
-This project was designed to analyze and visualize clinical trial data, identifying key trends in trial phases, medical conditions, sponsors, and patient enrollment. The primary objective was to develop an **interactive Power BI dashboard** that allows users to dynamically explore and extract insights from the dataset.  
+This project analyzes clinical trial trends, sponsor contributions, and patient enrollment patterns using data from Aero Data Lab. The objective is to uncover insights into trial success rates, phase distribution, and research focus areas through an interactive Power BI dashboard.
 
 The data source for this analysis is **Aero Data Lab**, which provides detailed records of clinical trials globally.
 
@@ -75,7 +75,8 @@ These insights were validated through **statistical and visual analysis**, guidi
 
 ## **Dashboard Design & Visualization (Power BI)**  
 
-![image](https://github.com/user-attachments/assets/614d7106-7907-4741-a2a7-5f9036c874e0)
+![image](https://github.com/user-attachments/assets/f7266957-5733-4bd0-be7b-e8dc8c9e62e8)
+
 
 
 The Power BI dashboard was structured to ensure **clarity, interactivity, and ease of navigation**.  
@@ -89,24 +90,6 @@ The Power BI dashboard was structured to ensure **clarity, interactivity, and ea
 
 To maintain **visual consistency and readability**, a **clean and professional color scheme** was selected. The layout was designed to **avoid clutter** while enabling users to explore different dimensions efficiently.  
 
-## **Insights from the Dashboard**  
-
-### **Trends in Clinical Trials Over Time**  
-- Clinical trials **peaked between 2000 and 2010**.  
-- A decline post-2010 suggests **increasing regulatory or financial barriers** affecting trial initiation.  
-
-### **Most Researched Medical Conditions**  
-- **Diabetes, Cancer, and Hypertension** dominate research.  
-- Indicates a global focus on **chronic disease management and treatment advancements**.  
-
-### **Clinical Trial Phase Distribution**  
-- **Phase 3 trials** are the most common, highlighting the importance of **efficacy validation before approval**.  
-- The **low number of Phase 4 trials** suggests **a gap in post-market drug monitoring**, which could be an area for further exploration.  
-
-### **Top Sponsors in Clinical Research**  
-- **GSK, Novartis, Pfizer, and Merck** are the primary industry players.  
-- Emphasizes the **strong role of private funding in drug development**.  
-
 ## **Exploration & Future Analysis**  
 
 The dashboard enables users to explore multiple dimensions of clinical trials:  
@@ -115,17 +98,7 @@ The dashboard enables users to explore multiple dimensions of clinical trials:
 - **Examine enrollment patterns** to identify fluctuations in patient recruitment.  
 - **Compare trial phases** to assess industry focus areas.  
 
-### **Future Enhancements**  
-- **Analysis of trial success rates** to determine which sponsors and conditions yield the highest approval rates.  
-- **Correlation between trial funding and success outcomes** to assess the impact of financial investment on research breakthroughs.  
-- **Tracking emerging trends in clinical trials** by analyzing shifts in focus areas, such as new disease categories or treatment types.  
-
 ## **Conclusion**  
 
-This project successfully combined **Python for data preparation and analysis with Power BI for visualization**, resulting in a dynamic and insightful clinical trials dashboard.  
+This project provides insights into clinical trial phases, sponsor influence, patient enrollment, and research trends. The Power BI dashboard serves as a tool for pharmaceutical companies, researchers, and policymakers to explore key metrics and make data-driven decisions. With further advancements in research funding and regulatory processes, trial success rates are expected to improve.
 
-- **Data cleaning & preparation** ensured high-quality insights.  
-- **Exploratory Data Analysis (EDA)** provided a deeper understanding of industry trends.  
-- **Power BI dashboard** enables **interactive exploration of key clinical trial metrics**.  
-
-The dashboard serves as a valuable tool for **pharmaceutical companies, researchers, and policymakers**, helping them **track industry trends, allocate resources effectively, and make data-driven decisions**.
