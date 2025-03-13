@@ -3,6 +3,8 @@
 ## **Project Overview**  
 This project was designed to analyze and visualize clinical trial data, identifying key trends in trial phases, medical conditions, sponsors, and patient enrollment. The primary objective was to develop an **interactive Power BI dashboard** that allows users to dynamically explore and extract insights from the dataset.  
 
+The data source for this analysis is Aero Data Lab, which provides detailed records of clinical trials globally.
+
 The project was executed in three primary stages:  
 - **Data Cleaning & Preparation**: Used Python libraries (**Pandas, NumPy**) to clean, structure, and preprocess the data.  
 - **Exploratory Data Analysis (EDA)**: Conducted a detailed analysis to identify patterns, outliers, and key trends.  
