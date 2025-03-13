@@ -9,7 +9,6 @@ The project was executed in three primary stages:
 - **Exploratory Data Analysis (EDA)**: Conducted a detailed analysis to identify patterns, outliers, and key trends.  
 - **Dashboard Development in Power BI**: Designed and implemented an interactive dashboard with dynamic filtering and visualization features.  
 
-This dashboard serves as a **decision-making tool for pharmaceutical companies, researchers, and policymakers**, enabling efficient analysis of industry trends.  
 
 ## **Project Goals and Achievements**  
 
