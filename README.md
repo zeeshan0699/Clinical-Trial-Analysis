@@ -85,7 +85,8 @@ The Power BI dashboard was structured to ensure **clarity, interactivity, and ea
 - **Bar Chart**  : Top 10 medical conditions by trial count.  
 - **Pie Chart**  : Distribution of trial sponsors.  
 - **KPI Cards**  : Total enrollment and trial count metrics.  
-- **Gauges**     : Visual representation of trial success and dropout rates.  
+- **Gauges**     : Visual representation of trial success and dropout rates.
+  (Built using DAX measures to dynamically reflect performance thresholds and success benchmarks.) 
 
 To maintain **visual consistency and readability**, a **clean and professional color scheme** was selected. The layout was designed to **avoid clutter** while enabling users to explore different dimensions efficiently.  
 
